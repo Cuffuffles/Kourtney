@@ -6,7 +6,7 @@ https://github.com/Cuffuffles/Kourtney/releases/tag/v1-release-beta-ultra-bonanz
 
 webview2 based client for https://kour.io
 
-fixes aim freeze bug found in latest chromium
+fixes aim freeze bug found in recent/current chromium versions
 
 hover over text in top right to close or just hit alt+f4 idc
 
