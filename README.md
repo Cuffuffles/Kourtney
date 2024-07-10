@@ -4,7 +4,9 @@ download and run should work
 
 https://github.com/Cuffuffles/Kourtney/releases/tag/v1-release-beta-ultra-bonanza-alpha-cookie
 
-webview2 based client for https://kour.io
+for legal reasons this is not a client but simply a web browser i created with https://kour.io as the homepage
+
+currently the url bar and tabs have not been implemented and so the browser can only play kour :)
 
 fixes aim freeze bug found in recent/current chromium versions
 
